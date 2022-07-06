@@ -1,4 +1,4 @@
-## MIT License <br> &copy; [`*`](../../graphs/pulse)
+## MIT License <br> &copy; [`*`](../../pulse)
 
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy
