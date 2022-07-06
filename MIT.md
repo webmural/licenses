@@ -1,4 +1,4 @@
-## MIT license <br> [&copy; s9a](https://github.com/s9a)
+## MIT License <br> &copy; [`*`](../../graphs/contributors)
 
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy
